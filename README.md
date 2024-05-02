@@ -5,7 +5,6 @@
 
 👨🏻‍💻 Estudante, compartilhando minha jornada e aprendizado na tecnologia! <br/>
 👨🏻‍🎓 Estudando [Ciências da Computação], na Universidade Maurício De Nassau! Recife, Brasil. <br/>
-📄  <br/>
 
 <!-- Github Stats From https://github.com/anuraghazra/github-readme-stats -->
 <div align="center">
@@ -21,11 +20,5 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 
-<div align="center">
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/juansf07/juansf07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=1aaaE6&reversal=true&section=footer&textBg=false"/>
